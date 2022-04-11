@@ -1,7 +1,7 @@
 # NotesApp
 RPL IDN Learning, Source Code Project 6
 
-In this project I have learn about :
+## In this project I have learn about :
 - Custom ActionBar using MaterialToolbar
 - Custom menu on ActionBar (ActionLayout)
 - Custom shape FloatingActionBar
