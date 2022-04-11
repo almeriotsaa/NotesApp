@@ -13,3 +13,4 @@ In this project I have learn about :
 - Create and implement animation on action navigation graph
 - Data Binding
 - Create Read Update Deleted ROOM Database
+- DB Browser SQLite
